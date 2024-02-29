@@ -1,2 +1,2 @@
-# SQL-Excel-Tableau-BikeStore
- Transformed data visualization with SQL, Excel, and Tableau. Developed a dashboard for management to track revenue by year, state, category, brand, salesperson, and top customer, facilitating informed decision-making.
+# SQL, Excel, Tableau-based, BikeStore Data Visualization
+Revolutionized data visualization using SQL queries, Excel, and Tableau to empower management decision-making. Crafted an insightful dashboard allowing easy tracking of revenue across various dimensions such as year, state, category, brand, salesperson, and top customers. The project aimed to enhance clarity in business data, enabling more informed and strategic decision-making for the management team.
